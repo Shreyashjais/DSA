@@ -12,7 +12,6 @@ void pattern(int n){
 }
 
 int main() {
-  
     pattern(4);
     return 0;
 }
