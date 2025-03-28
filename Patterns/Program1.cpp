@@ -12,7 +12,7 @@ void pattern(int n){
 }
 
 int main() {
-    cout << "Hello, Manjaro!" << endl;
+  
     pattern(4);
     return 0;
 }
