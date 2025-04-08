@@ -10,6 +10,7 @@ void pattern(int n){
         cout<<endl;
     }
 }
+
 int main() {
     pattern(4);
     return 0;

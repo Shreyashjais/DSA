@@ -6,8 +6,7 @@ void pattern(int n){
     for(int row=1; row<=n; row++){
         int space=n-row;
         for(int col=1; col<=space; col++){
-            cout<<" ";
-            
+            cout<<" ";   
         }
         for(int col=1; col<=row; col++){
             cout<<"*";
